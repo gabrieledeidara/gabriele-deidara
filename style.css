@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap');
  :root {
-    --claro: rgb(172, 216, 161);
-    --verde: rgba(155, 216, 130, 0.89);
-    --verde-escura: #72a365;
+    --claro: rgb(210, 161, 216);
+    --roxo: rgba(154, 91, 173, 0.89);
+    --roxo-escura: #cc83c8;
     --branca: #fff;
     --luz: rgb(212, 207, 202);
   }
     body{
 
-background-image: linear-gradient( #c2eeb1 40%,#294e26ab 60%);
+background-image: linear-gradient( #e9b1ee 40%,#a5629fab 60%);
  
 }
 
